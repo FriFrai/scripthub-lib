@@ -1,8 +1,4 @@
-Claro! Aqui está a documentação completa, formatada em Markdown para você copiar e colar diretamente no `README.md` do seu repositório no GitHub.
-
----
-
-# Dollarware API Documentation
+# Documentation
 
 ### Format
 -   `class:function(argument: type) -> return; [aliases]`
